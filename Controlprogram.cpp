@@ -19,4 +19,8 @@ int main(){
 
     cout <<"Masukan nilai Bahasa Inggris = ";
     cin >> nilBI;
+    cout <<"Masukan nilai Matematika = ";
+    cin >> nilMT;
+
+    
 }
